@@ -1,0 +1,111 @@
+
+body{
+  background-color:rgb(10, 9, 9);
+}
+
+
+#miCaja {
+   background-color:white;
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 60px;
+  }
+  
+.envio{
+  color: rgba(232, 20, 62, 0.895);
+  font-size: 50px;
+  text-align: center;
+}
+
+.button1{
+  position: relative;
+  right: 35px;
+  top: 70px;
+}
+
+/*.imajen{
+  background-color: rgba(9, 66, 76, 0.89);
+  width: 25%;
+  height: 25%;
+} 
+
+
+.imajen img {
+  width: 60%;
+  height: auto;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+
+.texto1{
+  color: white;
+  text-align: center;
+  font-size: 5em;
+}*/
+/*
+.imajen{
+  position: relative;
+  width: auto;
+  height:auto;
+  border: 3px solid red;
+}
+
+.imajen img{
+  position: relative;
+  width: 20%;
+  height: auto;
+  left: 200px;
+}
+
+.imajen .texto1{
+  color: white;
+  position: absolute;
+  left: 300px;
+  top: 450px;
+  right: 500px;
+  font-size: 30px;
+}
+
+.h1{
+  color: white;
+  text-align: center;
+}
+*/
+.imajen{
+  position:relative;
+  top:30px;
+  left: 20px;
+  width: 30%;
+  height: 400px;
+  background-color: rgba(240, 248, 255, 0.397);
+  /*border: 3px solid red;*/
+}
+
+.imajen img{
+  position: relative;
+  width: 50%;
+  height: auto;
+  left: 120px;
+}
+
+.imajen .texto1{
+  color: white;
+  position: absolute;
+  left: 190px;
+  top: 330px;
+  right: 500px;
+  font-size: 30px;
+}
+
+.h1{
+  color: white;
+  text-align: center;
+}
+
+.bot {
+  background-color: aqua;
+}
